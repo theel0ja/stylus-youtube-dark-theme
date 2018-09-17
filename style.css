@@ -9,7 +9,7 @@ regexp("https?://(www.)?youtube.com/(?!dashboard|my_videos|edit|analytics|featur
 /* Background - Body */
 html body{
 background-color: rgb(10,10,10) !important;
-background-image: url(http://i.imgur.com/3yTpS3i.png) !important;
+background-image: url(https:/i.imgur.com/3yTpS3i.png) !important;
 }
 
 /* General Declarations */
@@ -112,7 +112,7 @@ border-bottom-color: #303030 !important;
 }
 
 #yt-masthead #logo {
-background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -131px -219px !important;
+background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -131px -219px !important;
 }
 
 #yt-masthead-user-displayname {
@@ -124,7 +124,7 @@ background: transparent !important;
 }
 
 #yt-masthead-user .yt-uix-button-icon-bell {
-background: no-repeat url(http://i.imgur.com/veEzSqG.png) 0 -34px !important;
+background: no-repeat url(https:/i.imgur.com/veEzSqG.png) 0 -34px !important;
 }
 
 	/* Masthead - Guide */
@@ -191,7 +191,7 @@ box-shadow: none !important;
 }
 
 #masthead-search .search-btn-component .yt-uix-button-content {
-background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -173px -62px !important;
+background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -173px -62px !important;
 }
 
 	/* Masthead - Search - Results */
@@ -235,11 +235,11 @@ border-color: #303030 !important;
 }
 
 .compact-shelf .yt-uix-shelfslider-next-arrow, .rtl .compact-shelf .yt-uix-shelfslider-prev-arrow {
-background: no-repeat url(http://i.imgur.com/8Y5Xqhd.png) -42px -1452px !important;
+background: no-repeat url(https:/i.imgur.com/8Y5Xqhd.png) -42px -1452px !important;
 }
 
 .compact-shelf .yt-uix-shelfslider-prev-arrow, .rtl .compact-shelf .yt-uix-shelfslider-next-arrow {
-background: no-repeat url(http://i.imgur.com/8Y5Xqhd.png) -14px -1595px !important;
+background: no-repeat url(https:/i.imgur.com/8Y5Xqhd.png) -14px -1595px !important;
 }
 
 /* My Subscriptions */
@@ -249,11 +249,11 @@ border-bottom-color: #303030 !important;
 }
 
 .feed-author-bubble {
-background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -149px -357px !important;
+background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -149px -357px !important;
 }
   
 .feed-author-bubble.rec {
-background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -34px -62px !important;
+background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -34px -62px !important;
 }
 
 .feed-item-main {
@@ -381,7 +381,7 @@ border: none !important;
 }
 
 #action-panel-dismiss:before, .action-panel-trigger-dismiss:before {
-background: no-repeat url(http://i.imgur.com/6sI87Fl.png) -14px -861px !important;
+background: no-repeat url(https:/i.imgur.com/6sI87Fl.png) -14px -861px !important;
 }
 
 	/* Watch Page - Transcript */
@@ -431,7 +431,7 @@ margin-top: 10px !important;
 
 #watch-like:before, #watch-dislike:before, .actionable #watch-like.yt-uix-button:active:before, .actionable 
 #watch-like.yt-uix-button.yt-uix-button-toggled:before {
-background-image: url(http://i.imgur.com/HZQMHOi.png) !important;
+background-image: url(https:/i.imgur.com/HZQMHOi.png) !important;
 }
 
 #watch-like span, #watch-dislike span { color:#fff }
@@ -440,11 +440,11 @@ background-image: url(http://i.imgur.com/HZQMHOi.png) !important;
     
     
 .action-panel-trigger-addto:before, .action-panel-trigger-none-addto:before { background: no-repeat 
-url(http://i.imgur.com/ionzN0P.png) -24px -1012px !important; }
-.action-panel-trigger-share:before { background: no-repeat url(http://i.imgur.com/ionzN0P.png) -31px -2210px 
+url(https:/i.imgur.com/ionzN0P.png) -24px -1012px !important; }
+.action-panel-trigger-share:before { background: no-repeat url(https:/i.imgur.com/ionzN0P.png) -31px -2210px 
 !important; }
 #action-panel-overflow-button:before, .action-panel-trigger-overflow:before { background: no-repeat 
-url(http://i.imgur.com/ionzN0P.png) -24px -1301px !important; }
+url(https:/i.imgur.com/ionzN0P.png) -24px -1301px !important; }
 
 #watch8-action-buttons .yt-uix-button { color: #ccc !important; }
 
@@ -482,15 +482,15 @@ border-color: #303030 !important;
 background: #2a2a2a !important;
 }
 
-.creator-bar-item .yt-uix-button-icon-info { background: no-repeat url(http://i.imgur.com/ikibWu8.png) 0 -50px 
+.creator-bar-item .yt-uix-button-icon-info { background: no-repeat url(https:/i.imgur.com/ikibWu8.png) 0 -50px 
 !important; }
-.creator-bar-item .yt-uix-button-icon-enhance { background: no-repeat url(http://i.imgur.com/ikibWu8.png) 0 0 
+.creator-bar-item .yt-uix-button-icon-enhance { background: no-repeat url(https:/i.imgur.com/ikibWu8.png) 0 0 
 !important; }
-.creator-bar-item .yt-uix-button-icon-audio { background: no-repeat url(http://i.imgur.com/ikibWu8.png) 0 -72px 
+.creator-bar-item .yt-uix-button-icon-audio { background: no-repeat url(https:/i.imgur.com/ikibWu8.png) 0 -72px 
 !important; }
-.creator-bar-item .yt-uix-button-icon-annotations { background: no-repeat url(http://i.imgur.com/ikibWu8.png) 0 
+.creator-bar-item .yt-uix-button-icon-annotations { background: no-repeat url(https:/i.imgur.com/ikibWu8.png) 0 
 -128px !important; }
-.creator-bar-item .yt-uix-button-icon-captions { background: no-repeat url(http://i.imgur.com/ikibWu8.png) 0 -150px 
+.creator-bar-item .yt-uix-button-icon-captions { background: no-repeat url(https:/i.imgur.com/ikibWu8.png) 0 -150px 
 !important; }
 
 /*---*/
@@ -522,26 +522,26 @@ border-bottom-color: #303030 !important;
 
 .secondary-header-contents .nav-text { color: #fff !important; }
 
-#channel-header-view-as-link .header-action-icon { background: no-repeat url(http://i.imgur.com/TLZeIKB.png) 0 -93px 
+#channel-header-view-as-link .header-action-icon { background: no-repeat url(https:/i.imgur.com/TLZeIKB.png) 0 -93px 
 !important; }
 #channel-header-vm-link .header-action-icon, .header-action-icon.vm-icon { background: no-repeat 
-url(http://i.imgur.com/v8MBqQk.png) -64px -23px !important; }
+url(https:/i.imgur.com/v8MBqQk.png) -64px -23px !important; }
 #channel-header-analytics-link .header-action-icon, .header-action-icon.analytics-icon { background: no-repeat 
-url(http://i.imgur.com/v8MBqQk.png) 0 -339px !important; }
+url(https:/i.imgur.com/v8MBqQk.png) 0 -339px !important; }
 
 	/* Channel Page - Icons */
 
-#channel-search .show-search .search-icon {background: no-repeat url(http://i.imgur.com/VirN1wE.png) -170px -201px 
+#channel-search .show-search .search-icon {background: no-repeat url(https:/i.imgur.com/VirN1wE.png) -170px -201px 
 !important; }
 
-.yt-uix-button-icon-c4-grid-flow { background: no-repeat url(http://i.imgur.com/1R4Q7hF.png) -9px -582px !important; 
+.yt-uix-button-icon-c4-grid-flow { background: no-repeat url(https:/i.imgur.com/1R4Q7hF.png) -9px -582px !important; 
 }
-.yt-uix-button-icon-c4-list-flow { background: no-repeat url(http://i.imgur.com/1R4Q7hF.png) 0 -1576px !important; }
+.yt-uix-button-icon-c4-list-flow { background: no-repeat url(https:/i.imgur.com/1R4Q7hF.png) 0 -1576px !important; }
 
-.play-all-icon-btn:before { background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -29px -178px !important; }
+.play-all-icon-btn:before { background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -29px -178px !important; }
     
 .addto-watch-later-button:before, .addto-watch-later-button-sign-in:before { background: no-repeat 
-url(http://i.imgur.com/GT0JHEg.png) -54px -1640px !important; }
+url(https:/i.imgur.com/GT0JHEg.png) -54px -1640px !important; }
       
 /*---*/
   
@@ -571,7 +571,7 @@ border-top-color: #303030 !important;
 }
   
 #footer-main { border-bottom-color: transparent !important; }
-#footer-logo .footer-logo-icon { background: no-repeat url(http://i.imgur.com/DDNZc3U.png) -131px -219px !important; 
+#footer-logo .footer-logo-icon { background: no-repeat url(https:/i.imgur.com/DDNZc3U.png) -131px -219px !important; 
 }
   
 #footer-links-primary a { color: #999 !important; }
@@ -620,16 +620,16 @@ border-left-color: transparent !important;
 
 	/* Playlist Page - Icons */
 
-.create-playlist-widget-button .add-new-pl-btn:before { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) 0 
+.create-playlist-widget-button .add-new-pl-btn:before { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) 0 
 -1964px !important; }
 
-.pl-header-privacy-only-me { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) 0 -1395px !important; }
-.pl-header-privacy-limited-sharing { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) 0 -621px !important; }
-.pl-header-privacy-everyone { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) 0 -911px !important; }
+.pl-header-privacy-only-me { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) 0 -1395px !important; }
+.pl-header-privacy-limited-sharing { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) 0 -621px !important; }
+.pl-header-privacy-everyone { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) 0 -911px !important; }
 
-#pl-header .yt-uix-button-icon-gear { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) -36px -748px 
+#pl-header .yt-uix-button-icon-gear { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) -36px -748px 
 !important; }
-#pl-header .playlist-share:before { background: no-repeat url(http://i.imgur.com/xaxFdAo.png) 0 -445px !important; }
+#pl-header .playlist-share:before { background: no-repeat url(https:/i.imgur.com/xaxFdAo.png) 0 -445px !important; }
 
 	/* Playlist - Create Playlist Dropdown / Popups */
 
@@ -664,9 +664,9 @@ color: #fff !important;
 
 .yt-ui-menu-item { color: #999 !important; }
 
-.action-panel-trigger-report:before { background: no-repeat url(http://i.imgur.com/mZ790AJ.png) 0 -748px !important; 
+.action-panel-trigger-report:before { background: no-repeat url(https:/i.imgur.com/mZ790AJ.png) 0 -748px !important; 
 }
-.action-panel-trigger-transcript:before { background: no-repeat url(http://i.imgur.com/mZ790AJ.png) 0 -1556px 
+.action-panel-trigger-transcript:before { background: no-repeat url(https:/i.imgur.com/mZ790AJ.png) 0 -1556px 
 !important; }
 
 
@@ -715,7 +715,7 @@ border-color: #303030 !important;
   
 .yt-masthead-account-picker-option, .yt-masthead-picker-footer { background: #222 !important; }
 .yt-masthead-account-picker-option .yt-masthead-picker-name { color: #aaa !important; }
-.yt-uix-button-icon-icon-account-settings { background: no-repeat url(http://i.imgur.com/7fc8SwR.png) -49px -507px 
+.yt-uix-button-icon-icon-account-settings { background: no-repeat url(https:/i.imgur.com/7fc8SwR.png) -49px -507px 
 !important; }
   
 .yt-uix-clickcard-card-reverse .yt-uix-card-body-arrow-vertical, .yt-uix-hovercard-card-reverse 
@@ -727,7 +727,7 @@ border-color: #303030 !important;
 
 /* YT Center Compat Bits */
 .ytcenter-module-container .yt-uix-form-input-checkbox-container input:checked+.yt-uix-form-input-checkbox-element {
-background: no-repeat url(http://i.imgur.com/gIgpO5N.png) 0 -1640px !important;
+background: no-repeat url(https:/i.imgur.com/gIgpO5N.png) 0 -1640px !important;
 }
 
 /*---*/
@@ -769,7 +769,7 @@ regexp("https://apis.google.com/u/[0-9]/(.*)/_/widget/render/comments\\?usegapi=
 .d-y-r-c{background-color:#2b2b2b!important;background-image:linear-gradient(to bottom,#222 0,#2c2c2c 
 100%)!important;color:#bbb!important;border-color:#444!important;}
 
-.d-k-l.d-y-r-c-Qa,.ena{background:no-repeat url(http://i.imgur.com/ho8PnMO.png) -131px -17px!important;}
+.d-k-l.d-y-r-c-Qa,.ena{background:no-repeat url(https:/i.imgur.com/ho8PnMO.png) -131px -17px!important;}
 
 .d-r{background:#222!important;border:1px solid #444!important;}
 
@@ -781,15 +781,15 @@ regexp("https://apis.google.com/u/[0-9]/(.*)/_/widget/render/comments\\?usegapi=
 
 .dga{background-color:#151515!important;border-color:#303030!important;}
 
-.mj .tm{background:no-repeat url(http://i.imgur.com/VpPZ6yW.png) -13px -719px!important;}
+.mj .tm{background:no-repeat url(https:/i.imgur.com/VpPZ6yW.png) -13px -719px!important;}
 
 .g-h-f-V-nb{background:#222!important;}
 
 .d-cm{border-top-color:#303030!important;}
 
-.g-h-f-m-wc-E,.g-h-f-m-Ed-wc-E{background:no-repeat url(http://i.imgur.com/p4Hnp94.png) -21px -25px!important;}
+.g-h-f-m-wc-E,.g-h-f-m-Ed-wc-E{background:no-repeat url(https:/i.imgur.com/p4Hnp94.png) -21px -25px!important;}
 
-.IGPVEc{background:no-repeat url(http://i.imgur.com/k5G05JP.png) -131px 0!important;}
+.IGPVEc{background:no-repeat url(https:/i.imgur.com/k5G05JP.png) -131px 0!important;}
 
 .FnlLyd:hover{background-color:#222!important;border-color:#303030!important;}
 
@@ -797,17 +797,17 @@ regexp("https://apis.google.com/u/[0-9]/(.*)/_/widget/render/comments\\?usegapi=
 
 .Kgb,.Y8b .TD{background-color:#3a3a3a!important;}
 
-.MJa.JMc{background:no-repeat url(http://i.imgur.com/G39kb8k.png) 0 -186px!important;}
+.MJa.JMc{background:no-repeat url(https:/i.imgur.com/G39kb8k.png) 0 -186px!important;}
 
-.LJa.Zld{background:no-repeat url(http://i.imgur.com/G39kb8k.png) 0 -204px!important;}
+.LJa.Zld{background:no-repeat url(https:/i.imgur.com/G39kb8k.png) 0 -204px!important;}
 
-.MJa{background:no-repeat url(http://i.imgur.com/KxkJKLZ.png) 0 -144px!important;}
+.MJa{background:no-repeat url(https:/i.imgur.com/KxkJKLZ.png) 0 -144px!important;}
 
-.LJa{background:no-repeat url(http://i.imgur.com/KxkJKLZ.png) 0 -175px!important;}
+.LJa{background:no-repeat url(https:/i.imgur.com/KxkJKLZ.png) 0 -175px!important;}
 
-.Bl{background:no-repeat url(http://i.imgur.com/IjLPagd.png) 0 -49px!important;}
+.Bl{background:no-repeat url(https:/i.imgur.com/IjLPagd.png) 0 -49px!important;}
 
-.Kx{background:no-repeat url(http://i.imgur.com/IjLPagd.png) -171px -21px!important;}
+.Kx{background:no-repeat url(https:/i.imgur.com/IjLPagd.png) -171px -21px!important;}
 
 .cp{background-color:#131313!important;}
 
